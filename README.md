@@ -4,7 +4,7 @@
 	<img src="https://raw.githubusercontent.com/kuriv/kuriv.github.io/master/.cloud/normalize/730bfa378b905ab806a3e0a03a170835.svg?sanitize=true" width="80" height="80" align="right">
 </a>
 
-> A modern alternative to CSS resets
+> A modern, HTML5-ready alternative to CSS resets.
 
 [![build][build-image]][build-url]
 [![version][version-image]][version-url]
@@ -12,7 +12,7 @@
 
 **Download**
 
-See https://kuriv.github.io/normalize/normalize.css
+See [https://kuriv.github.io/normalize/normalize.css](https://kuriv.github.io/normalize/normalize.css)
 
 ## What does it do?
 
@@ -39,7 +39,7 @@ override the defaults later in your CSS.
 
 ## License
 
-normalize is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+`normalize` is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
 
