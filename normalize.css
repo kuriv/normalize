@@ -26,7 +26,7 @@ html {
 
 /**
  * Remove the margin and padding in all browsers.
- * Add default fonts to all browsers.
+ * Add the default font styles to all browsers.
  */
 
 body {
@@ -51,6 +51,22 @@ main {
 h1 {
 	margin: .67em 0;
 	font-size: 2em;
+}
+
+/**
+ * Add the correct display in all browsers.
+ */
+
+summary {
+	display: list-item;
+}
+
+/**
+ * Add the correct display in all browsers.
+ */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
 }
 
 /**
@@ -95,7 +111,7 @@ pre {
 */
 
 /**
- * Remove the gray background on active links in IE 10.
+ * Remove the gray background on active links in IE.
  * Remove the text decoration in all browsers.
  */
 
@@ -105,7 +121,7 @@ a {
 }
 
 /**
- * Remove the bottom border in Chrome 57-
+ * Remove the bottom border in Chrome 57-.
  * Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
 
@@ -167,7 +183,7 @@ sub {
 */
 
 /**
- * Remove the border on images inside links in IE 10.
+ * Remove the border on images inside links in IE.
  */
 
 img {
@@ -225,7 +241,7 @@ button, [type="button"], [type="reset"], [type="submit"] {
 }
 
 /**
- * Remove the inner border and padding in Firefox.
+ * Remove the padding and inner border in Firefox.
  */
 
 button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner {
@@ -265,7 +281,7 @@ progress {
 }
 
 /**
- * Remove the default vertical scrollbar in IE 10+.
+ * Remove the default vertical scrollbar in IE.
  */
 
 textarea {
@@ -273,8 +289,8 @@ textarea {
 }
 
 /**
- * Add the correct box sizing in IE 10.
- * Remove the padding in IE 10.
+ * Add the correct box sizing in IE.
+ * Remove the padding in IE.
  */
 
 [type="checkbox"], [type="radio"] {
@@ -320,36 +336,6 @@ textarea {
 
 /*
 |----------------------------------------------------------------------
-| Interactive
-|----------------------------------------------------------------------
-*/
-
-/**
- * Add the correct display in Edge, IE 10+, and Firefox.
- */
-
-details {
-	display: block;
-}
-
-/**
- * Add the correct display in all browsers.
- */
-
-summary {
-	display: list-item;
-}
-
-/**
- * Add the correct display in all browsers.
- */
-
-article, aside, figcaption, figure, footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-
-/*
-|----------------------------------------------------------------------
 | Tables
 |----------------------------------------------------------------------
 */
@@ -370,7 +356,7 @@ table {
 */
 
 /**
- * Add default style to all browsers.
+ * Add the default placeholder styles to all browsers.
  */
 
 ::-moz-placeholder {
@@ -392,7 +378,7 @@ table {
 */
 
 /**
- * Add the correct display in IE 10+.
+ * Add the correct display in IE.
  */
 
 template {
@@ -400,7 +386,7 @@ template {
 }
 
 /**
- * Add the correct display in IE 10.
+ * Add the correct display in IE.
  */
 
 [hidden] {

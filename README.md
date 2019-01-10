@@ -1,26 +1,28 @@
 # normalize
 
 <a href="https://github.com/kuriv/normalize">
-	<img src="https://raw.githubusercontent.com/kuriv/kuriv.github.io/master/normalize.png?token=AYen2xjhoBP-bTLky1wwpMTw6lhy75B5ks5cNhw1wA%3D%3D" width="80" height="80" align="right">
+	<img src="https://raw.githubusercontent.com/kuriv/kuriv.github.io/master/.cloud/normalize/730bfa378b905ab806a3e0a03a170835.svg?sanitize=true" width="80" height="80" align="right">
 </a>
 
 > A modern alternative to CSS resets
 
-## About Normalize
+[![build][build-image]][build-url]
+[![version][version-image]][version-url]
+[![license][license-image]][license-url]
 
-Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards. We researched the differences between default browser styles in order to precisely target only the styles that need normalizing.
+**Download**
+
+See https://kuriv.github.io/normalize/normalize.css
 
 ## What does it do?
 
 * Preserves useful defaults, unlike many CSS resets.
 * Normalizes styles for a wide range of elements.
 * Corrects bugs and common browser inconsistencies.
-* Improves usability with subtle improvements.
+* Improves usability with subtle modifications.
 * Explains what code does using detailed comments.
 
 ## How to use it
-
-Normalize.css is intended to be used as an alternative to CSS resets.
 
 It's suggested that you read the `normalize.css` file and consider customising
 it to meet your needs. Alternatively, include the file in your project and
@@ -30,11 +32,20 @@ override the defaults later in your CSS.
 
 * Chrome
 * Edge
-* Firefox ESR+
+* Firefox
 * Internet Explorer 8+
-* Safari 8+
+* Safari
 * Opera
 
 ## License
 
-Normalize.css is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+normalize is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+[build-image]: https://raw.githubusercontent.com/kuriv/kuriv.github.io/master/.cloud/normalize/b54a096c658c0501f34a1909e74173e0.svg?sanitize=true
+[build-url]: https://github.com/kuriv/normalize
+[version-image]: https://raw.githubusercontent.com/kuriv/kuriv.github.io/master/.cloud/normalize/44b13eaf0e18d5e0aa1e4be746774c4c.svg?sanitize=true
+[version-url]: https://github.com/kuriv/normalize
+[license-image]: https://raw.githubusercontent.com/kuriv/kuriv.github.io/master/.cloud/normalize/928c8fa04a9fe016d3e01548b53fd06a.svg?sanitize=true
+[license-url]: https://opensource.org/licenses/MIT
