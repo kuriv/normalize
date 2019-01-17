@@ -22,10 +22,9 @@ See [https://kuriv.github.io/normalize/normalize.css](https://kuriv.github.io/no
 * Improves usability with subtle modifications.
 * Explains what code does using detailed comments.
 
-## How to use it
+## How to use it?
 
-It's suggested that you read the `normalize.css` file and consider customising
-it to meet your needs. Alternatively, include the file in your project and
+It's suggested that you read the `normalize.css` file and consider customising it to meet your needs. Alternatively, include the file in your project and
 override the defaults later in your CSS.
 
 ## Browser support
