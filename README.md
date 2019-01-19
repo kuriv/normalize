@@ -14,7 +14,7 @@
 
 **NPM**
 
-```sh
+```
 npm install --save npm-css-normalize
 ```
 
