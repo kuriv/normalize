@@ -10,6 +10,14 @@
 [![version][version-image]][version-url]
 [![license][license-image]][license-url]
 
+## Installation
+
+**NPM**
+
+```sh
+npm install --save npm-css-normalize
+```
+
 **Download**
 
 See [https://kuriv.github.io/normalize/normalize.css](https://kuriv.github.io/normalize/normalize.css)
@@ -19,8 +27,6 @@ See [https://kuriv.github.io/normalize/normalize.css](https://kuriv.github.io/no
 * Preserves useful defaults, unlike many CSS resets.
 * Normalizes styles for a wide range of elements.
 * Corrects bugs and common browser inconsistencies.
-* Improves usability with subtle modifications.
-* Explains what code does using detailed comments.
 
 ## How to use it?
 

@@ -1,0 +1,23 @@
+{
+  "name": "npm-css-normalize",
+  "version": "1.0.1",
+  "description": "A modern, HTML5-ready alternative to CSS resets.",
+  "main": "normalize.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuriv/normalize.git"
+  },
+  "keywords": [
+    "css",
+    "normalize"
+  ],
+  "author": "kuriv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuriv/normalize/issues"
+  },
+  "homepage": "https://github.com/kuriv/normalize#readme"
+}
