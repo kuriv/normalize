@@ -12,10 +12,10 @@
  */
 
 html {
-	line-height: 1.15;
-	-ms-text-size-adjust: 100%;
-	-webkit-text-size-adjust: 100%;
-	-webkit-font-smoothing: subpixel-antialiased;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: subpixel-antialiased;
 }
 
 /*
@@ -30,9 +30,9 @@ html {
  */
 
 body {
-	margin: 0;
-	padding: 0;
-	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
 }
 
 /**
@@ -40,7 +40,7 @@ body {
  */
 
 main {
-	display: block;
+    display: block;
 }
 
 /**
@@ -49,8 +49,8 @@ main {
  */
 
 h1 {
-	margin: .67em 0;
-	font-size: 2em;
+    margin: .67em 0;
+    font-size: 2em;
 }
 
 /**
@@ -58,23 +58,15 @@ h1 {
  */
 
 summary {
-	display: list-item;
+    display: list-item;
 }
 
 /**
  * Add the correct display in all browsers.
  */
 
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-
-/**
- * Add the correct display in all browsers.
- */
-
-iframe {
-	display: block;
+article, aside, details, figcaption, figure, footer, header, hgroup, iframe, menu, nav, section {
+    display: block;
 }
 
 /*
@@ -89,19 +81,18 @@ iframe {
  */
 
 hr {
-	overflow: visible;
-	box-sizing: content-box;
-	height: 0;
+    overflow: visible;
+    box-sizing: content-box;
+    height: 0;
 }
 
 /**
- * Correct the odd <em> font sizing in all browsers.
  * Correct the inheritance and scaling of font size in all browsers.
  */
 
 pre {
-	font-size: 1em;
-	font-family: monospace, monospace;
+    font-size: 1em;
+    font-family: monospace, monospace;
 }
 
 /*
@@ -111,13 +102,11 @@ pre {
 */
 
 /**
- * Remove the gray background on active links in IE.
- * Remove the text decoration in all browsers.
+ * Remove the gray background on active links in IE 10.
  */
 
 a {
-	background-color: transparent;
-	text-decoration: none;
+    background-color: transparent;
 }
 
 /**
@@ -126,9 +115,9 @@ a {
  */
 
 abbr[title] {
-	border-bottom: none;
-	text-decoration: underline;
-	text-decoration: underline dotted;
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration: underline dotted;
 }
 
 /**
@@ -136,7 +125,7 @@ abbr[title] {
  */
 
 b, strong {
-	font-weight: bolder;
+    font-weight: bolder;
 }
 
 /**
@@ -145,8 +134,8 @@ b, strong {
  */
 
 code, kbd, samp {
-	font-size: 1em;
-	font-family: monospace, monospace;
+    font-size: 1em;
+    font-family: monospace, monospace;
 }
 
 /**
@@ -154,7 +143,7 @@ code, kbd, samp {
  */
 
 small {
-	font-size: 80%;
+    font-size: 80%;
 }
 
 /**
@@ -162,18 +151,18 @@ small {
  */
 
 sup, sub {
-	position: relative;
-	vertical-align: baseline;
-	font-size: 75%;
-	line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
 }
 
 sup {
-	top: -.5em;
+    top: -.5em;
 }
 
 sub {
-	bottom: -.25em;
+    bottom: -.25em;
 }
 
 /*
@@ -183,11 +172,11 @@ sub {
 */
 
 /**
- * Remove the border on images inside links in IE.
+ * Remove the border on images inside links in IE 10.
  */
 
 img {
-	border-style: none;
+    border-style: none;
 }
 
 /**
@@ -195,7 +184,7 @@ img {
  */
 
 audio, canvas, video {
-	display: inline-block;
+    display: inline-block;
 }
 
 /*
@@ -210,10 +199,10 @@ audio, canvas, video {
  */
 
 button, input, optgroup, select, textarea {
-	margin: 0;
-	font-size: 100%;
-	font-family: inherit;
-	line-height: 1.15;
+    margin: 0;
+    font-size: 100%;
+    font-family: inherit;
+    line-height: 1.15;
 }
 
 /**
@@ -221,7 +210,7 @@ button, input, optgroup, select, textarea {
  */
 
 button, input {
-	overflow: visible;
+    overflow: visible;
 }
 
 /**
@@ -229,7 +218,7 @@ button, input {
  */
 
 button, select {
-	text-transform: none;
+    text-transform: none;
 }
 
 /**
@@ -237,7 +226,7 @@ button, select {
  */
 
 button, [type="button"], [type="reset"], [type="submit"] {
-	-webkit-appearance: button;
+    -webkit-appearance: button;
 }
 
 /**
@@ -245,8 +234,16 @@ button, [type="button"], [type="reset"], [type="submit"] {
  */
 
 button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner {
-	padding: 0;
-	border-style: none;
+    padding: 0;
+    border-style: none;
+}
+
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+
+button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="submit"]:-moz-focusring {
+	outline: 1px dotted ButtonText;
 }
 
 /**
@@ -254,7 +251,7 @@ button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-mo
  */
 
 fieldset {
-	padding: .35em .75em .625em;
+    padding: .35em .75em .625em;
 }
 
 /**
@@ -264,12 +261,12 @@ fieldset {
  */
 
 legend {
-	display: table;
-	box-sizing: border-box;
-	padding: 0;
-	max-width: 100%;
-	color: inherit;
-	white-space: normal;
+    display: table;
+    box-sizing: border-box;
+    padding: 0;
+    max-width: 100%;
+    color: inherit;
+    white-space: normal;
 }
 
 /**
@@ -277,25 +274,25 @@ legend {
  */
 
 progress {
-	vertical-align: baseline;
+    vertical-align: baseline;
 }
 
 /**
- * Remove the default vertical scrollbar in IE.
+ * Remove the default vertical scrollbar in IE 10+.
  */
 
 textarea {
-	overflow: auto;
+    overflow: auto;
 }
 
 /**
- * Add the correct box sizing in IE.
- * Remove the padding in IE.
+ * Add the correct box sizing in IE 10.
+ * Remove the padding in IE 10.
  */
 
 [type="checkbox"], [type="radio"] {
-	box-sizing: border-box;
-	padding: 0;
+    box-sizing: border-box;
+    padding: 0;
 }
 
 /**
@@ -303,7 +300,7 @@ textarea {
  */
 
 [type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button {
-	height: auto;
+    height: auto;
 }
 
 /**
@@ -312,8 +309,8 @@ textarea {
  */
 
 [type="search"] {
-	outline-offset: -2px;
-	-webkit-appearance: textfield;
+    outline-offset: -2px;
+    -webkit-appearance: textfield;
 }
 
 /**
@@ -321,7 +318,7 @@ textarea {
  */
 
 [type="search"]::-webkit-search-decoration {
-	-webkit-appearance: none;
+    -webkit-appearance: none;
 }
 
 /**
@@ -330,8 +327,8 @@ textarea {
  */
 
 ::-webkit-file-upload-button {
-	font: inherit;
-	-webkit-appearance: button;
+    font: inherit;
+    -webkit-appearance: button;
 }
 
 /*
@@ -341,12 +338,12 @@ textarea {
 */
 
 /**
- * Remove most spacing between table cells.
+ * Remove spacing between table cells.
  */
 
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
 /*
@@ -360,15 +357,15 @@ table {
  */
 
 ::-moz-placeholder {
-	color: #a5a5a5;
+    color: #a5a5a5;
 }
 
 ::-webkit-input-placeholder {
-	color: #a5a5a5;
+    color: #a5a5a5;
 }
 
 :-ms-input-placeholder {
-	color: #a5a5a5;
+    color: #a5a5a5;
 }
 
 /*
@@ -378,17 +375,17 @@ table {
 */
 
 /**
- * Add the correct display in IE.
+ * Add the correct display in IE 10+.
  */
 
 template {
-	display: none;
+    display: none;
 }
 
 /**
- * Add the correct display in IE.
+ * Add the correct display in IE 10.
  */
 
 [hidden] {
-	display: none;
+    display: none;
 }
