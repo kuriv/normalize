@@ -1,7 +1,7 @@
 # normalize
 
 <a href="https://github.com/kuriv/normalize">
-	<img src="normalize.svg" width="80" height="80" align="right">
+	<img src="normalize.png" width="80" height="80" align="right">
 </a>
 
 > A modern, HTML5-ready alternative to CSS resets.
