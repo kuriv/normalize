@@ -1,6 +1,6 @@
 {
   "name": "@kuriv/normalize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A modern, HTML5-ready alternative to CSS resets.",
   "main": "index.js",
   "scripts": {
