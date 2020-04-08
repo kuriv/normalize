@@ -14,7 +14,6 @@
 html {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
-    -webkit-font-smoothing: subpixel-antialiased;
 }
 
 /*
@@ -32,14 +31,6 @@ body {
     margin: 0;
     padding: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
-}
-
-/**
- * Render the <main> element consistently in IE.
- */
-
-main {
-    display: block;
 }
 
 /**
@@ -64,7 +55,7 @@ summary {
  * Add the correct display in all browsers.
  */
 
-article, aside, details, figcaption, figure, footer, header, hgroup, iframe, menu, nav, section {
+article, aside, details, figcaption, figure, footer, header, hgroup, iframe, main, nav, section {
     display: block;
 }
 
@@ -343,28 +334,6 @@ textarea {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-}
-
-/*
-|----------------------------------------------------------------------
-| Placeholder
-|----------------------------------------------------------------------
-*/
-
-/**
- * Add the default placeholder styles to all browsers.
- */
-
-::-moz-placeholder {
-    color: #6a737d;
-}
-
-::-webkit-input-placeholder {
-    color: #6a737d;
-}
-
-:-ms-input-placeholder {
-    color: #6a737d;
 }
 
 /*

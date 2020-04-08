@@ -12,10 +12,22 @@
 
 ## Installation
 
+**Git**
+
+```
+git clone https://github.com/kuriv/normalize.git
+```
+
 **npm**
 
 ```
 npm install @kuriv/normalize
+```
+
+**Download**
+
+```
+https://kuriv.github.io/normalize/normalize.min.css
 ```
 
 ## What does it do?
@@ -43,7 +55,7 @@ npm install @kuriv/normalize
 
 [build-image]: https://img.shields.io/badge/build-passing-brightgreen	"build"
 [build-url]: https://github.com/kuriv/normalize	"build"
-[version-image]: https://img.shields.io/badge/version-v1.0.3-blue	"version"
+[version-image]: https://img.shields.io/badge/version-v1.0.4-blue	"version"
 [version-url]: https://github.com/kuriv/normalize	"version"
 [license-image]: https://img.shields.io/badge/license-MIT-green	"license"
 [license-url]: https://opensource.org/licenses/MIT	"license"
