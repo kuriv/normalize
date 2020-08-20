@@ -1,7 +1,7 @@
 # normalize
 
 <a href="https://github.com/kuriv/normalize">
-	<img src="normalize.png" width="80" height="80" align="right">
+	<img src="normalize.svg" width="80" height="80" align="right">
 </a>
 
 > A modern, HTML5-ready alternative to CSS resets.
@@ -55,7 +55,7 @@ https://kuriv.github.io/normalize/normalize.min.css
 
 [build-image]: https://img.shields.io/badge/build-passing-brightgreen	"build"
 [build-url]: https://github.com/kuriv/normalize	"build"
-[version-image]: https://img.shields.io/badge/version-v1.0.4-blue	"version"
+[version-image]: https://img.shields.io/badge/version-v1.0.5-blue	"version"
 [version-url]: https://github.com/kuriv/normalize	"version"
 [license-image]: https://img.shields.io/badge/license-MIT-green	"license"
 [license-url]: https://opensource.org/licenses/MIT	"license"
